@@ -1,0 +1,12 @@
+
+h1 {
+  color: #ed4e93 ;
+  font-family: "Helvetica", Times, serif;
+}
+h1#name {
+  color: #36d8bd;
+  font-size: 50px;
+}
+body {
+    background-color:#ffe95b;
+}
